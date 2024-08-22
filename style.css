@@ -1,0 +1,13 @@
+body {
+    background-image: url(pic.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: burlywood;
+    font-family: "Times New Roman";
+  }
+p {
+    color: sandybrown;
+    font-size: 30px;
+}
